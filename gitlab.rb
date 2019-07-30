@@ -1,4 +1,4 @@
-external_url 'https://10.12.7.5'
+external_url 'https://10.12.10.13'
 nginx['enable'] = true
 nginx['redirect_http_to_https'] = true
 nginx['redirect_http_to_https_port'] = 80
